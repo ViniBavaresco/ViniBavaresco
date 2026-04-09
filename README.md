@@ -5,8 +5,9 @@
 
 ## 🚀 Sobre mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UNIP - 2023)
-- 💻 Atualmente cursando **Ciência da Computação** e participando do **Programa Devs do Agi** (Agibank + Prosper Tech Talents)
-- ☕ Apaixonado por **Java**, **desenvolvimento web** e **criação de soluções úteis**
+- 💙 Participei do **Programa Devs do Agi** (Agibank + Prosper Tech Talents) e hoje estou como Beginner Developer no Agi
+- 💻 Atualmente cursando **Ciência da Computação**
+- ☕ Apaixonado por **Java**, **desenvolvimento** e **criação de soluções úteis**
 - 🎮 Interesse inicial por tecnologia nasceu no mundo dos games
 - 📍 Campinas - SP, Brasil
 
