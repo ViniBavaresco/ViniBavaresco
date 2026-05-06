@@ -1,60 +1,89 @@
-<h1 align="center">👋 E aí, pessoal! Tudo tranquilo?</h1>
-<h3 align="center">Eu sou o Vinicius Bavaresco, mas pode me chamar de Vini 😄</h3>
+<div align="center">
+  <h1>Oi, eu sou o Vini Bavaresco 👋</h1>
+  <p>
+    Desenvolvedor em evolução constante, apaixonado por Java, tecnologia e pela criação
+    de soluções úteis que saem do papel e fazem diferença no dia a dia.
+  </p>
 
----
-
-## 🚀 Sobre mim
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UNIP - 2023)
-- 💙 Participei do **Programa Devs do Agi** (Agibank + Prosper Tech Talents) e hoje estou como Beginner Developer no Agi
-- 💻 Atualmente cursando **Ciência da Computação**
-- ☕ Apaixonado por **Java**, **desenvolvimento** e **criação de soluções úteis**
-- 🎮 Interesse inicial por tecnologia nasceu no mundo dos games
-- 📍 Campinas - SP, Brasil
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div align="center" style="display: inline_block"><br>
-  <img alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img alt="SpringBoot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Angular" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img alt="JavaScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Bootstrap" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img alt="VSCode" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <a href="https://www.linkedin.com/in/vinicius-bavaresco-46a549222" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://viniciusbavaresco.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://github.com/ViniBavaresco" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Sobre Mim
+
+Sou o Vinicius Bavaresco, mas pode me chamar de Vini. Minha curiosidade por tecnologia começou no mundo dos games e foi crescendo até virar carreira.
+
+- Formado em **Análise e Desenvolvimento de Sistemas** pela UNIP.
+- Atualmente cursando **Ciência da Computação**.
+- Participei do **Programa Devs do Agi** da Agibank com a Prosper Tech Talents.
+- Hoje atuo como **Beginner Developer no Agi**.
+- Tenho foco em **Java**, **Spring Boot**, desenvolvimento backend e soluções full stack.
+- Moro em **Campinas, SP - Brasil**.
+
+---
+
+## Tecnologias e Ferramentas
+
+<div align="center">
+  <img alt="Java" height="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alt="Spring Boot" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img alt="MySQL" height="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img alt="Angular" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img alt="HTML5" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img alt="CSS3" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img alt="JavaScript" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="TypeScript" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="Bootstrap" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img alt="Git" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="VS Code" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+</div>
+
+---
+
+## O Que Você Vai Encontrar Por Aqui
+
+- Projetos de estudo e prática com **Java**, **Spring Boot** e APIs REST.
+- Experimentos com **Angular**, **TypeScript** e interfaces web.
+- Evolução constante em arquitetura, boas práticas, banco de dados e testes.
+- Repositórios que acompanham meu crescimento como desenvolvedor.
+
+---
+
+## Estatísticas do GitHub
 
 <div align="center">
   <a href="https://github.com/ViniBavaresco">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ViniBavaresco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBavaresco&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniBavaresco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Vini">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBavaresco&layout=compact&langs_count=7&theme=algolia" alt="Linguagens mais usadas pelo Vini">
   </a>
 </div>
 
 ---
 
-## 📫 Onde me encontrar
-<div>
+## Vamos Conversar?
+
+<div align="center">
+  <p>Estou sempre aberto a aprender, trocar ideias e construir coisas novas.</p>
+
   <a href="https://www.linkedin.com/in/vinicius-bavaresco-46a549222" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/Me_chama_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://viniciusbavaresco.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://github.com/ViniBavaresco" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Ver_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </div>
 
 ---
 
-![Snake animation](https://github.com/ViniBavaresco/ViniBavaresco/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/ViniBavaresco/ViniBavaresco/blob/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha dos commits">
+</div>
