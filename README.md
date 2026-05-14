@@ -66,10 +66,8 @@ Sou o Vinicius Bavaresco, mas pode me chamar de Vini. Minha curiosidade por tecn
 ## Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/ViniBavaresco">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniBavaresco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Vini">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBavaresco&layout=compact&langs_count=7&theme=algolia" alt="Linguagens mais usadas pelo Vini">
-  </a>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniBavaresco&theme=github_dark" alt="Estatísticas do GitHub do Vini">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniBavaresco&theme=github_dark" alt="Linguagens mais usadas nos repositórios do Vini">
 </div>
 
 ---
